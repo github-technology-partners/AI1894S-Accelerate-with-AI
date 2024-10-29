@@ -1,6 +1,8 @@
 # AI1894S - Accelerate with AI: Build your own GitHub Copilot Extension
 
-Welcome to our workshop! Below are the steps we'll be walking through to build your own Copilot Extension.
+Welcome to our workshop materials! Below are the steps we'll be walking through to build your own Copilot Extension.
+
+A continued discussion is available [here](https://github.com/orgs/community/discussions/142312)!
 
 ## Workshop steps
 
