@@ -2,7 +2,7 @@
 
 Welcome to our workshop materials! Below are the steps we'll be walking through to build your own Copilot Extension.
 
-A continued discussion is available [here](https://github.com/orgs/community/discussions/142312)!
+A continued discussion is available [here](https://github.com/orgs/community/discussions/142312) and thank you for attending!
 
 ## Workshop steps
 
